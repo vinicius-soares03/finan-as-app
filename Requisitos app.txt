@@ -1,0 +1,5 @@
+* tela gastos 
+* tela cobranças(pessoas à cobrar)
+ - deverá conter uma tela com CRUD de cobranças 
+ - ao criar uma cobrança, deverá conter os campos de "nome", "valor", "data previsto para pagamento"
+* O app deverá criar uma notificação quando for dia de pagar ou receber de alguém
